@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/PyThon-3670A0.svg?style=for-the-badge&logo=Python&logoColor=ffdd54)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 
 <p align="center">
     <h3 align="center">Deep Q-Networks: Pong game - Activity</h3>
