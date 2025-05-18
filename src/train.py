@@ -3,9 +3,6 @@ import os
 import argparse
 from rl_zoo3.train import train
 
-# Local imports
-from layers.qcnn import HybridCnnPolicy
-
 
 def main():
     # Create argument parser for this script
