@@ -40,7 +40,7 @@ This is the official repository of the DQN experimentation optional exercise for
 │   └── test.py                        # Script to test the trained model
 │
 ├── third_party/
-│   └── stable_baselines3/            # Third-party resources such as Stable Baselines3 (if needed locally)
+│   └── stable_baselines3/            # Third-party resources such as Stable Baselines3
 │
 ├── videos/
 │   ├── best_model.gif                # GIF showing the best-performing trained agent
