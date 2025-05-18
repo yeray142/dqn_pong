@@ -43,8 +43,8 @@ This is the official repository of the DQN experimentation optional exercise for
 │   └── stable_baselines3/            # Third-party resources such as Stable Baselines3
 │
 ├── videos/
-│   ├── best_model.gif                # GIF showing the best-performing trained agent
-│   └── worst_model.gif               # GIF showing the worst-performing trained agent
+│   ├── best_model.gif                # GIF showing the best episode of the trained agent
+│   └── worst_model.gif               # GIF showing the worst episode of the trained agent
 ```
 
 ## Installation
