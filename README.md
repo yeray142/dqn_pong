@@ -11,6 +11,9 @@
     </p>
 </p>
 
+> [!IMPORTANT]
+> The best model weights are available in Google Drive from the [following link](https://drive.google.com/file/d/11nMg-szJpWDAXoiFbTZf7xWZdo5VBVJF/view?usp=sharing).
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
