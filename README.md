@@ -28,6 +28,25 @@
 
 This is the official repository of the DQN experimentation optional exercise for solving the Pong game in the Master in Computer Vision in Barcelona.
 
+### Folder Structure
+
+```
+├── config/
+│   ├── default.yaml                   # Configuration YAML files for model experiments
+│   └── ...
+│
+├── src/
+│   ├── train.py                       # Script to train the DQN model on Pong
+│   └── test.py                        # Script to test the trained model
+│
+├── third_party/
+│   └── stable_baselines3/            # Third-party resources such as Stable Baselines3 (if needed locally)
+│
+├── videos/
+│   ├── best_model.gif                # GIF showing the best-performing trained agent
+│   └── worst_model.gif               # GIF showing the worst-performing trained agent
+```
+
 ## Installation
 
 ### Prerequisites
